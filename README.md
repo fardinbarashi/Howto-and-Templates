@@ -1,2 +1,2 @@
 # Howto and Templates
-Howto and tempaltes
+Howto and Templates
